@@ -34,7 +34,7 @@ This might seem a bit fluffy, so we'll explore this a bit with some examples,
 but before we get into that, let's allow ourselves to be slightly dogmatic:
 
     1. You can *always* break your program into smaller pieces
-    2. How something is computed is *never* interesting to your program
+    2. How something is computed is *never* interesting
     3. Most steps and sub computations are generalisable
     4. **Never** depend on anything that isn't a parameter to your function
     5. **Never** modify your input parameters
