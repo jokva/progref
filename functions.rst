@@ -42,7 +42,7 @@ but before we get into that, let's allow ourselves to be slightly dogmatic:
     7. Do *one thing* and **one thing only**
 
 If you follow these guidelines, your functions are almost always `testable`.
-For more details on testing, see the Testing_.
+For more details on testing, see testing_.
 
 Let's look at a good function - this example is borrowed from
 http://composingprograms.com/pages/14-designing-functions.html
