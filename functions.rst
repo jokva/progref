@@ -138,11 +138,13 @@ particles`, and prints the pressure.
 
 .. note::
 
-    Notice that in this example, most variables have 1-letter names, which is
-    generally a bad idea - however, in this case the variables live in a 4-line
-    block and are not visibe outside the loop, cleanly map to the parameters of
-    the pressure function, and more importantly, have a describing name
-    deriving from the CSV file column header in the ``row[col]`` lookup.
+    In this example, most variables have 1-letter names, which is generally a
+    bad idea - however, in this particular case the variables live in a 4-line
+    block and are not visibe outside the loop, map cleanly to the *documented
+    parameters* of the pressure function *and the ideal gas law*, which is
+    explicitly referred to in the docstring, and more importantly, have a
+    describing name on the right-hand side of the variable assignment, deriving
+    from the CSV file column header in the ``row[col]`` lookup.
 
 Let's review the example, because it turns out the CSV file didn't record
 `particles`, but rather the `weight`, in kilograms, because it turns out this
