@@ -25,7 +25,7 @@ In plain English it reads:
     whatever comes next is a new function named `fn`, parameterised over the
     two values `param1` and `param2`.
     
-In terms of communication, two wonderful things happenes:
+In terms of communication, two wonderful things happen:
 
     1. We're labeling a series of steps with a new *name*
     2. We're letting everyone know what this computation *depends on*
