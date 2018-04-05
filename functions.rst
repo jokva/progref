@@ -27,7 +27,7 @@ In plain English it reads:
     
 In terms of communication, two wonderful things happenes:
 
-    1. We're labeling a series of steps a new *name*
+    1. We're labeling a series of steps with a new *name*
     2. We're letting everyone know what this computation *depends on*
 
 This might seem a bit fluffy, so we'll explore this a bit with some examples,
