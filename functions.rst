@@ -131,7 +131,7 @@ particles`, and prints the pressure.
     difficult to figure out. Even though some precondition seems obvious now,
     it usually isn't already in a week or two.
 
-**But this is just a throaway script**
+**But this is just a throwaway script**
     It is until it isn't. It's not a lot of work to separate in cleaner chunks,
     and it makes it easier to verify things works as intended. Besides, that's
     no reason to be sloppy, we don't treat our other tools that way.
